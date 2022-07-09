@@ -1,0 +1,21 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(æ÷ˆÛ8íËÉ”0
+P	java:S125 "<This block of commented-out lines of code should be removed.(µ®æ:
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ïø´°øÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(Ãæğéüÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(·ë¢‰
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(«†µ‹üÿÿÿÿ
+W
+java:S1128"<Remove this unused import 'ch.qos.logback.core.db.DBHelper'.(‘îªúúÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÁÜÆ·ûÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(áÔç
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(™ş¢ê
+k
+java:S1128"VRemove this unused import 'com.sun.org.apache.xerces.internal.dom.DeferredAttrNSImpl'.(‘…ÛC
+w
+java:S1128	"\Remove this unused import 'jdk.management.resource.internal.inst.SocketOutputStreamRMHooks'.(ø†ıûÿÿÿÿ
+J
+java:S1191"5Use classes from the Java API instead of Sun classes.(‘…ÛC
