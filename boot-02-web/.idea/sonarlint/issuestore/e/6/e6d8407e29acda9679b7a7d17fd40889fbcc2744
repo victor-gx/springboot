@@ -1,0 +1,13 @@
+
+J
+java:S3740,"/Provide the parametrized type for this generic.(×·´­úÿÿÿÿ
+p
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.MatrixVariable'.(Í³ ²8¨è­»ž0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8©è­»ž0
+c
+java:S1192""FDefine a constant instead of duplicating this literal "world" 3 times.(¶“ÿð8éÏ´»ž0
+h
+java:S1192!"FDefine a constant instead of duplicating this literal "hello" 3 times.(®¾»ýüÿÿÿÿ8éÏ´»ž0
+j
+java:S1192#"HDefine a constant instead of duplicating this literal "message" 3 times.(Þ÷¿Ëüÿÿÿÿ8éÏ´»ž0

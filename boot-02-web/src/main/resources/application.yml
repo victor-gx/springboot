@@ -1,0 +1,12 @@
+spring:
+#  mvc:
+#    static-path-pattern: /res/**
+#     这个会导致welcome page和网页图标功能失效
+
+  web:
+    resources:
+      static-locations:
+        [ classpath:/haha/ ]
+#      add-mappings: true
+#        cache:
+#          period: 11000
