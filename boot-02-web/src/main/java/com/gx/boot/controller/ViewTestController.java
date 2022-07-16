@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class ViewTestController {
 
-    @GetMapping("/atguigu")
+    @GetMapping("/gx")
     public String atguigu(Model model){
 
         //model中的数据会被放在请求域中 request.setAttribute("a",aa)
