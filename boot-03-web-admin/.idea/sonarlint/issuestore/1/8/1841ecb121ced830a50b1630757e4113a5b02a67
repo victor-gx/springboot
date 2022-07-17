@@ -1,6 +1,18 @@
 
-c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÁÙÊ
-b	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Í«,
-X	java:S125."<This block of commented-out lines of code should be removed.(Ç»ê8§êõ§ 0
-h	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‡û„ûÿÿÿÿ
-h	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÒÓšúÿÿÿÿ
+o	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¸•ûÿÿÿÿ8¼–ÕÐ 0
+W
+java:S1854""5Remove this useless assignment to local variable "i".(ÚÈŸ‡ÿÿÿÿÿ8¼–ÕÐ 0
+i	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Í«,8¿–ÕÐ 0
+X	java:S1259"<This block of commented-out lines of code should be removed.(Ç»ê8À–ÕÐ 0
+o	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‡û„ûÿÿÿÿ8Â–ÕÐ 0
+o	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÒÓšúÿÿÿÿ8Ä–ÕÐ 0
+H
+java:S1481""&Remove this unused "i" local variable.(ÚÈŸ‡ÿÿÿÿÿ8Æ–ÕÐ 0
+j
+java:S1128"HRemove this unused import 'com.gx.admin.exception.UserTooManyException'.(µœ ©úÿÿÿÿ8ƒøúÒ 0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ƒøúÒ 0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ƒøúÒ 0
+e
+java:S3518""CMake sure this expression can't be zero before doing this division.(ÚÈŸ‡ÿÿÿÿÿ8Ñ–ÕÐ 0
