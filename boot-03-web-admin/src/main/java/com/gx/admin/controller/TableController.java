@@ -67,10 +67,14 @@ public class TableController {
         //调用page进行分页
         Page<User> userPage = userService.page(page, null);
 
+//        List<User> list = userService.list();
+//        model.addAttribute("users",list);
+
 
 //        userPage.getRecords()
 //        userPage.getCurrent()
 //        userPage.getPages()
+
 
 
         model.addAttribute("users",userPage);
