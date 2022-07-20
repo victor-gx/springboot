@@ -1,0 +1,19 @@
+
+h	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¸•ûÿÿÿÿ
+P
+java:S1854""5Remove this useless assignment to local variable "i".(ÚÈŸ‡ÿÿÿÿÿ
+b	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Í«,
+Q	java:S1259"<This block of commented-out lines of code should be removed.(Ç»ê
+]	java:S125F"<This block of commented-out lines of code should be removed.(ƒº¾şÿÿÿÿ8ëæø­¡0
+h	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‡û„ûÿÿÿÿ
+h	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÒÓšúÿÿÿÿ
+A
+java:S1481""&Remove this unused "i" local variable.(ÚÈŸ‡ÿÿÿÿÿ
+j
+java:S1128"HRemove this unused import 'com.gx.admin.exception.UserTooManyException'.(µœ ©úÿÿÿÿ8¬ÆÛ­¡0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¬ÆÛ­¡0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8“Šø­¡0
+^
+java:S3518""CMake sure this expression can't be zero before doing this division.(ÚÈŸ‡ÿÿÿÿÿ

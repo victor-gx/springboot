@@ -1,0 +1,10 @@
+
+f
+java:S1854"DRemove this useless assignment to local variable "systemProperties".(¸ıóÿÿÿÿÿ8”½ÅÒ¡0
+b
+java:S1854"ERemove this useless assignment to local variable "systemEnvironment".(›ËË¸8”½ÅÒ¡0
+X	java:S125"<This block of commented-out lines of code should be removed.(³â­Ø8š½ÅÒ¡0
+S
+java:S1481"6Remove this unused "systemEnvironment" local variable.(›ËË¸8›½ÅÒ¡0
+W
+java:S1481"5Remove this unused "systemProperties" local variable.(¸ıóÿÿÿÿÿ8›½ÅÒ¡0

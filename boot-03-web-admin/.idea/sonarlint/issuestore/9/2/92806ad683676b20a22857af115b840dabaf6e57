@@ -1,0 +1,9 @@
+
+O
+java:S2441L":Make "User" serializable or don't store it in the session.(ø®¯
+Y
+java:S1128"7Remove this unused import 'javax.jws.soap.SOAPBinding'.(î¶âÑûÿÿÿÿ8š§Ë¬¡0
+\
+java:S1192D"FDefine a constant instead of duplicating this literal "login" 3 times.(Íý‡Ç
+e
+java:S2259;"CA "NullPointerException" could be thrown; "aLong" is nullable here.(š³ä“ûÿÿÿÿ8…Ã§¬¡0

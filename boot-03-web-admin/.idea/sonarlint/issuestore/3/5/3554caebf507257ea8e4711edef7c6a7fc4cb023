@@ -1,0 +1,24 @@
+
+9
+java:S5786
+"Remove this 'public' modifier.(ˆúËıÿÿÿÿ
+h
+java:S5863)"KReplace this assertion to not have the same actual and expected expression.(ÌÍğ…8”ş¥Ë¡0
+O
+java:S34154"2Change this assertion to not compare two literals.(Óøš·8âŸ§Ë¡0
+€
+java:S1607Z"^Either add an explanation about why this test is skipped or remove the "@Disabled" annotation.(ƒÔëùÿÿÿÿ8ñşÊ¡0
+F
+java:S2925f"$Remove this use of "Thread.sleep()".(¿ú¾Îøÿÿÿÿ8Ì‡ÿÊ¡0
+H
+java:S5967k",Remove one of these conflicting annotations.(µâÁn8¼ÁˆË¡0
+O
+java:S2699"-Add at least one assertion to this test case.(ŒŞ“Üúÿÿÿÿ8‰¢ÓË¡0
+C
+java:S2699S"-Add at least one assertion to this test case.(Õã¾§
+O
+java:S2699Z"-Add at least one assertion to this test case.(ƒÔëùÿÿÿÿ8ŠøÊ¡0
+O
+java:S2699e"-Add at least one assertion to this test case.(Û‚óòøÿÿÿÿ8Í‡ÿÊ¡0
+I
+java:S2699k"-Add at least one assertion to this test case.(µâÁn8¾ÁˆË¡0
