@@ -1,0 +1,9 @@
+
+Q
+java:S1191"5Use classes from the Java API instead of Sun classes.(‘…ÛC8”ìÜ§0
+X	java:S125"<This block of commented-out lines of code should be removed.(æ÷ˆÛ8¶ìÜ§0
+W	java:S125 "<This block of commented-out lines of code should be removed.(µ®æ:8ÚìÜ§0
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ïø´°øÿÿÿÿ8İìÜ§0
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(Ãæğéüÿÿÿÿ8àìÜ§0
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(·ë¢‰8ãìÜ§0
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(«†µ‹üÿÿÿÿ8åìÜ§0
